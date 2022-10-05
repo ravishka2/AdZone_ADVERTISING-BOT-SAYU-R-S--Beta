@@ -205,7 +205,7 @@ Time ⏰ =  ${xeontime} `
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `Queen-Melissa-Beta`,
+    footer: `IM AdZone_ADVERTISING RAVISHKA❤️S❤️-Beta`,
     buttons,
     headerType: 4
     }
